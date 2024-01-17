@@ -1,0 +1,40 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "stockmonitoringdashb-dev-20190819121234-authRole",
+      "UnauthRoleArn": "arn:aws:iam::284546856933:role/stockmonitoringdashb-dev-20190819121234-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::284546856933:role/stockmonitoringdashb-dev-20190819121234-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "stockmonitoringdashb-dev-20190819121234-deployment",
+      "UnauthRoleName": "stockmonitoringdashb-dev-20190819121234-unauthRole",
+      "StackName": "stockmonitoringdashb-dev-20190819121234",
+      "StackId": "arn:aws:cloudformation:eu-west-1:284546856933:stack/stockmonitoringdashb-dev-20190819121234/3ed5f3a0-c272-11e9-a06b-0ae15a4dadda"
+    },
+    "categories": {
+      "auth": {
+        "stockmonitoringdashb41a7f230": {}
+      }
+    }
+  },
+  "local": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stockmonitoringdashb-local-112456-authRole",
+      "UnauthRoleArn": "arn:aws:iam::716836252875:role/amplify-stockmonitoringdashb-local-112456-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::716836252875:role/amplify-stockmonitoringdashb-local-112456-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-stockmonitoringdashb-local-112456-deployment",
+      "UnauthRoleName": "amplify-stockmonitoringdashb-local-112456-unauthRole",
+      "StackName": "amplify-stockmonitoringdashb-local-112456",
+      "StackId": "arn:aws:cloudformation:ap-south-1:716836252875:stack/amplify-stockmonitoringdashb-local-112456/f19bc560-b4fc-11ee-a39a-02e0582d652d",
+      "AmplifyAppId": "d3fbswjwuvhuiv"
+    },
+    "categories": {
+      "auth": {
+        "stockmonitoringdashb41a7f230": {}
+      },
+      "api": {
+        "stockmonitoringdashb": {}
+      }
+    }
+  }
+}

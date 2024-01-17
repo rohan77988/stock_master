@@ -1,0 +1,18 @@
+{
+  "api": {
+    "stockmonitoringdashb": {
+      "output": {
+        "securityType": "AMAZON_COGNITO_USER_POOLS"
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "AppSync"
+    }
+  },
+  "auth": {
+    "stockmonitoringdashb41a7f230": {
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito"
+    }
+  }
+}
